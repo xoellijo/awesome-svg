@@ -7,6 +7,7 @@
 - [Awesome SVG](#awesome-svg)
 	- [Accessible SVG](topics/Accessibility.md)
 	- [Animation](topics/Animation.md)
+  - [Automation](topics/Automation.md)
 	- [Books](topics/Books.md)
 	- [Experiments](topics/Experiments.md)
 	- [Filters](topics/Filters.md)
